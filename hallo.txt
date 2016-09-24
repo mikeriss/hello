@@ -14,3 +14,4 @@ added in feature1 and commited
 
 added to master
 
+something added in branch feature2
