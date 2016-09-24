@@ -14,4 +14,7 @@ added in feature1 and commited
 
 added to master
 
+
 something added in branch feature2 and another one
+
+something added to master which needs to be updated in feature2
