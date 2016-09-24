@@ -1,5 +1,14 @@
 function1
 
+<<<<<<< HEAD
 function3
 
 function5
+=======
+
+function2
+
+function3
+
+function4
+>>>>>>> master
